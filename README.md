@@ -1,0 +1,1 @@
+This is a lightweight and modular PHP authentication system that follows the Model-View-Controller (MVC) design pattern. It provides essential user authentication features including registration, login, logout, and password hashing. The frontend is styled with Bootstrap, and data is managed using MySQL with PDO for secure database interaction.
